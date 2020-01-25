@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UdemyS11PackageDemo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UdemyS11PackageDemo_jar</output-path>
+    <root id="archive" name="UdemyS11PackageDemo.jar">
+      <element id="module-output" name="UdemyS11PackageDemo" />
+    </root>
+  </artifact>
+</component>
